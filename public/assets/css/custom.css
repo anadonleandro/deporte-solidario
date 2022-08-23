@@ -1,0 +1,26 @@
+/*.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active{
+	background-color: red;
+}
+.fc-next-button{
+	background-color: red;
+}
+.fc .fc-button-group>{
+	background-color: lightgreen;
+}
+.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active{
+	background-color: red;
+}
+.fc-state-default{
+	background-color: greenyellow;
+}
+.fc-button-group{
+	background-color: red;
+}
+.fc-widget-header{
+	background-color: blueviolet;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 15px;
+}
+.fc-day-grid{
+	background-color: rgb(240,229,128);
+}
